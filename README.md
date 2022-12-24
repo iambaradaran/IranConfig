@@ -10,7 +10,7 @@ Config Direct Link : `https://raw.githubusercontent.com/iambaradaran/IranConfig/
 
 
 
-### **changelog version 0.3.0**
+### **changelog version 0.1.0**
 
 - This is the first version and a new start
 

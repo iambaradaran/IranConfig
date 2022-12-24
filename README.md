@@ -27,5 +27,5 @@ Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/
 If you would like to contribute, please follow these steps:
 
 1. Fork the repo to your repository
-2. Add your rules to the `ShadowIR.conf` file
+2. Add your rules to the `IranConfig.conf` file
 3. Send pull requests for update of configuration

@@ -4,7 +4,7 @@ The following Shadowrocket configuration is for Iranian users.
 
 ## How to use configuration the ShadowRocket?
 
-Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
+Config Direct Link : `https://raw.githubusercontent.com/iambaradaran/IranConfig/main/IranConfig.conf`
 
 - ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/config.mp4)
 
